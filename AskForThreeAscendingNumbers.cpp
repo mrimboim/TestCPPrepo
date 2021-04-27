@@ -2,11 +2,14 @@
 #include <vector>
 #include <string>
 
-using namespace std;
+//using nampspace std; (then you dont need to use std:: not proper ? *)
 
 int main()
 {
-    std::cout << "oopa";
+    int numberOne = 0;
+    std::cout << "Please Enter 3 Numbers in ascending order\n";
+    std::cin >> numberOne;
+    
     
     
    
