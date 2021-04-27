@@ -6,11 +6,8 @@ using namespace std;
 
 int main()
 {
-    vector<string> msg {"Heo", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+    std::cout << "oopa";
     
-    for (const string& word : msg)
-    {
-        cout << word << " ";
-    }
-    cout << endl;
+    
+   
 }
